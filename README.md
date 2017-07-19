@@ -2,9 +2,9 @@
 
 Basic arcade and casual games written for 'termbox' and playable within the OS's **terminal**.
 
-#Download
+# Download
 
-#Install
+# Install
 
-#Usage
+# Usage
 

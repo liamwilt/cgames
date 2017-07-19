@@ -1,6 +1,10 @@
 # cgames
 
-**Terminal Games**
+Basic arcade and casual games written for 'termbox' and playable within the OS's **terminal**.
 
-Basic arcade and casual games written for termbox.
+#Download
+
+#Install
+
+#Usage
 
